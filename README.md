@@ -56,8 +56,3 @@ This project is a comprehensive analysis of the performance of a Super Store acr
 - **Optimise Delivery Methods**: Enhancing delivery speed, especially in **East** and **West** regions, could help increase customer satisfaction and sales.
 
 
-## 🎥 Video Overview
-
-Check out the video showing the **Python code** and **Power BI Dashboard** in action!
-
-[Watch the Video](https://github.com/Josh-Osas/End-to-End-Business-Performance-Analytics-Dashboard/blob/main/superstore%20full%20video.mp4)
